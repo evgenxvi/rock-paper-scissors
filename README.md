@@ -3,6 +3,7 @@ Project from "Foundations Course", module "JavaScript Basics".
 
 ## **Stack**
 - HTML
+- CSS
 - JavaScript
 
 ## **Links**
